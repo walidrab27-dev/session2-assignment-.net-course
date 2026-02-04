@@ -1,0 +1,14 @@
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\bin\Debug\net10.0\Assessment#1.exe
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\bin\Debug\net10.0\Assessment#1.deps.json
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\bin\Debug\net10.0\Assessment#1.runtimeconfig.json
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\bin\Debug\net10.0\Assessment#1.dll
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\bin\Debug\net10.0\Assessment#1.pdb
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\obj\Debug\net10.0\Assessment#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\obj\Debug\net10.0\Assessment#1.AssemblyInfoInputs.cache
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\obj\Debug\net10.0\Assessment#1.AssemblyInfo.cs
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\obj\Debug\net10.0\Assessment#1.csproj.CoreCompileInputs.cache
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\obj\Debug\net10.0\Assessment#1.dll
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\obj\Debug\net10.0\refint\Assessment#1.dll
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\obj\Debug\net10.0\Assessment#1.pdb
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\obj\Debug\net10.0\Assessment#1.genruntimeconfig.cache
+C:\Programming\C# Diploma CCS\2 Second Session\Assessment#1\obj\Debug\net10.0\ref\Assessment#1.dll
